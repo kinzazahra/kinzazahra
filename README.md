@@ -70,7 +70,6 @@ Full Stack Developer | Machine Learning & Data Analytics | Real-World Environmen
 📊 Data Analytics & Visualization  
 🌐 Full Stack Web & MERN Development  
 ☁️ Cloud & Backend Integrations  
-🌍 SDG-Aligned Solutions & Sustainable Tech
 
 ---
 
