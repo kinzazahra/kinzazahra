@@ -102,4 +102,6 @@
 
 ---
 
-<h3 align="center">✨ “Driven by curiosity — coding, creating & contributing to a smarter tomorrow.” ✨</h3>
+> “Thriving on challenges, I build impactful tech for good, one line of code at a time.”
+>
+> “Playing With Technology.”
