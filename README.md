@@ -1,76 +1,107 @@
-                                                                       # **Hi 👋, I'm Kinza Zahra**
+<h1 align="center">Hi 👋, I'm Kinza Zahra</h1>
 
-**B.Tech CSE @ Amity School of Engineering & Technology, Mumbai  
-Full Stack Developer | Machine Learning & Data Analytics | Real-World Environmental Solutions**
+<p align="center">
+  <b>B.Tech CSE @ Amity School of Engineering & Technology, Mumbai</b><br>
+  Full Stack Developer | Machine Learning & Data Analytics | Sustainable Tech Enthusiast
+</p>
 
----
+<hr>
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science & Engineering student (2023–Present)  
-💡 Passionate about Full Stack, Machine Learning, Data Analytics & Sustainable Solutions  
-🤝 Experienced in team-based hackathons, collaborative builds & real-world solutions
+🎓 B.Tech CSE Student (2023–Present)  
+💡 Passionate about Full Stack, AI/ML & Data Analytics  
+🌱 Building real-world sustainable tech solutions  
+🤝 Experienced in team-based hackathons, collaborative builds & real-world solutions  
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Languages:** Python | JavaScript | C | C++ | Java  
-**Web:** HTML5 | CSS3 | React | Node.js | Express.js | MERN  
-**Databases:** MongoDB | SQL  
-**Frameworks/Tools:** Flask | Streamlit | Git & GitHub  
-**ML & Data:** Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn  
-**Cloud/Dev:** AWS (Basics) | REST APIs
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-2C3E50?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
 
 ---
 
 ## 🏗️ Notable Projects
 
-🔥 **MERN Stack ToDo App** — Full-stack productivity app with React, Node.js & MongoDB  
-🌍 **Air Quality Analysis & Prediction** — Visualized and forecasted air quality trends using ML  
-⚡ **Emergency SOS Web Tool** — HTML/CSS based quick alert interface  
-☁️ **Weather Dashboard** — JS-based real-time weather app  
-🎨 **Design Generator Tool** — Python utility for dynamic content creation  
-⚙️ **DSA Scripts & Tools** — Python tools for algorithm practice  
-🎮 **Quiz & UI Utility Apps** — Interactive web builds using frontend tech
-
-🔗 More projects on GitHub: https://github.com/kinzazahra
+- 🔥 MERN Stack ToDo App  
+- 🌍 Air Quality Analysis & Prediction  
+- ⚡ Emergency SOS Web Tool  
+- ☁️ Weather Dashboard  
+- 🎨 Design Generator Tool  
+- ⚙️ DSA Scripts & Tools  
+- 🎮 Quiz & UI Utility Apps  
 
 ---
 
 ## 🔗 Live Projects
 
-[![DSA Project](https://img.shields.io/badge/DSA%20Project-blue?logo=appveyor)](https://dsa-project-c6pm.onrender.com)
-[![Python Audio Book](https://img.shields.io/badge/Python%20Audio%20Book-yellow?logo=python)](https://python-audio-book-t8w2.onrender.com)
-[![Hospital System](https://img.shields.io/badge/Hospital%20System-red?logo=appveyor)](https://hospital-system-2-nhks.onrender.com)
-[![Emergency SOS](https://img.shields.io/badge/Emergency%20SOS-brightgreen?logo=appveyor)](https://emergency-sos-anf5.onrender.com)
+<p>
+
+<a href="https://dsa-project-c6pm.onrender.com">
+<img src="https://img.shields.io/badge/DSA_Project-1E90FF?style=for-the-badge"/>
+</a>
+
+<a href="https://python-audio-book-t8w2.onrender.com">
+<img src="https://img.shields.io/badge/Python_Audio_Book-FFD43B?style=for-the-badge"/>
+</a>
+
+<a href="https://hospital-system-2-nhks.onrender.com">
+<img src="https://img.shields.io/badge/Hospital_System-DC143C?style=for-the-badge"/>
+</a>
+
+<a href="https://emergency-sos-anf5.onrender.com">
+<img src="https://img.shields.io/badge/Emergency_SOS-32CD32?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
 ## 🏆 Hackathons & Competitions
 
-⚡ **Hack with GDG – Season 3 2026**  
-🛰️ **NASA International Space Apps Challenge 2025**  
-🚀 **Bhartiya Antariksh Hackathon 2025**  
-🌐 **Google Developer Groups (On Campus) – Solution Challenge (2025)**  
-🌌 **Hackcelestial 2.0 (2025)**
+⚡ Hack with GDG – Season 3 (2026)  
+🛰️ NASA International Space Apps Challenge (2025)  
+🚀 Bhartiya Antariksh Hackathon (2025)  
+🌐 GDG Solution Challenge (2025)  
+🌌 Hackcelestial 2.0 (2025)  
 
 ---
 
 ## 📜 Research Work
 
-🥇 Energy-Aware Deep Learning: Pathways to Sustainable AGI by 2030 — Best Paper (Team)  
-🏅 AI for Earth 5.0: Deep Learning Frameworks Shaping Sustainable Societal Futures — Best Paper (Team)
+🥇 Energy-Aware Deep Learning: Pathways to Sustainable AGI by 2030 — Best Paper  
+
+🏅 AI for Earth 5.0: Deep Learning Frameworks Shaping Sustainable Societal Futures — Best Paper  
 
 ---
 
-## 💡 Interests & Focus Areas
+## 💡 Interests
 
 🌱 AI & Machine Learning for Social Impact  
 📊 Data Analytics & Visualization  
-🌐 Full Stack Web & MERN Development  
-☁️ Cloud & Backend Integrations  
+🌐 Full Stack & MERN Development  
+☁️ Cloud & Backend Engineering  
 
 ---
 
-**“Driven by curiosity — coding, creating & contributing to a smarter tomorrow.”**
+<h3 align="center">✨ “Driven by curiosity — coding, creating & contributing to a smarter tomorrow.” ✨</h3>
