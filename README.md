@@ -102,6 +102,6 @@
 
 ---
 
-> “Thriving on challenges, I build impactful tech for good, one line of code at a time.”
+> “Building smarter systems today for a more sustainable tomorrow.”
 >
-> “Playing With Technology.”
+> “Design. Develop. Deliver.”
