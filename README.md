@@ -1,7 +1,7 @@
-# Hi 👋, I'm **Kinza Zahra**
+                                                                       # **Hi 👋, I'm Kinza Zahra**
 
-B.Tech CSE @ Amity School of Engineering & Technology, Mumbai  
-Full Stack Developer | Machine Learning & Data Analytics | Real-World Environmental Solutions
+**B.Tech CSE @ Amity School of Engineering & Technology, Mumbai  
+Full Stack Developer | Machine Learning & Data Analytics | Real-World Environmental Solutions**
 
 ---
 
