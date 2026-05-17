@@ -140,13 +140,3 @@
 </p>
 
 ---
-
-<div align="center">
-
-### ✨ Quote
-
-> “Building smarter systems today for a more sustainable tomorrow.”
-
-> “Design. Develop. Deliver.”
-
-</div>
