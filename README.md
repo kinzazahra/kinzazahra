@@ -140,3 +140,7 @@
 </p>
 
 ---
+
+> “Crafting technology that blends innovation, intelligence, and impact.”
+
+> “Built with curiosity. Driven by purpose.”
